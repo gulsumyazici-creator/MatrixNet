@@ -8,7 +8,6 @@ import java.util.Locale;
  * and writes Core’s responses to the output file.
  *
  * @author Gülsüm Yazıcı
- * @studentId 2023400072
  */
 public class Main {
 
